@@ -10,7 +10,7 @@ in a `displayio.Palette` object. A target color along with a tolerance parameter
 determine the range of color values to be replaced. The class creates a new
 palette object with the changes. The replacement color value (or `None` for
 transparency) is substituted for the original palette entry and placed into the
-new palette object, `TransparencyFilter.palette`.
+new palette object, `PaletteFilter.palette`.
 
 The filter uses a linear Euclidean comparison incorporating vision perception
 ('redmean') approximation to test palette color values with the specified
