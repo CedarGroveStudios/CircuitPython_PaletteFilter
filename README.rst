@@ -124,9 +124,9 @@ Usage Example
 
 Documentation
 =============
-API documentation for this library can be found in `PaletteFilter_API <https://github.com/CedarGroveStudios/CircuitPython_PaletteFilter/blob/master/media/pseudo_readthedocs_palettefilter.pdf>`_.
+API documentation for this library can be found in `PaletteFilter_API <https://github.com/CedarGroveStudios/CircuitPython_PaletteFilter/blob/main/media/pseudo_readthedocs_palettefilter.pdf>`_.
 
-.. image:: https://github.com/CedarGroveStudios/CircuitPython_PaletteFilter/blob/master/media/flying_lars_test.png
+.. image:: https://github.com/CedarGroveStudios/CircuitPython_PaletteFilter/blob/main/media/flying_lars_test.png
 
 For information on building library documentation, please check out
 `this guide <https://learn.adafruit.com/creating-and-sharing-a-circuitpython-library/sharing-our-docs-on-readthedocs#sphinx-5-1>`_.
