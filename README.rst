@@ -61,7 +61,7 @@ following command to install:
 
 .. code-block:: shell
 
-    circup install transparencyfilter
+    circup install cedargrove_palettefilter
 
 Or the following command to update an existing version:
 
