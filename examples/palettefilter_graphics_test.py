@@ -50,7 +50,7 @@ display.brightness = BRIGHTNESS
 display.rotation = ROTATION
 
 primary_disp_layer = displayio.Group(scale=DISPLAY_SCALE)
-display.show(primary_disp_layer)
+display.root_group = primary_disp_layer
 
 bkg_block = Rect(x=200, y=80, width=80, height=60, fill=BACKGROUND_COLOR)
 primary_disp_layer.append(bkg_block)
